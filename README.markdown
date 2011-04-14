@@ -20,4 +20,4 @@ The following links may be of interest if you're looking into reprogramming your
 ## Pictures
 <img src="http://public.dwang.org/github/tvbgone/top.png">
 
-<img src="http://public.dwang.org/github/tvbgone/side.png">
+<img src="http://public.dwang.org/github/tvbgone/side.pngs">
